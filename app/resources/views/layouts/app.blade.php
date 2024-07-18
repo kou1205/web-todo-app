@@ -15,8 +15,8 @@
 
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-</head>
-```html
+</head
+```html>
 <body>
     <div id="app">
         {{-- 背景色指定のため変更 --}}
